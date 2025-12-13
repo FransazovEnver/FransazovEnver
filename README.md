@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I'm Enver 👋
 
-<!--
-**FransazovEnver/FransazovEnver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me
 
-Here are some ideas to get you started:
+Completed courses at SoftUni University:
+  - PostgreSQL
+  - Back-End Test Automation
+  - Back-End Technologies Basics
+  - Front-End Test Automation
+  - Front-End Technologies Basics
+  - Programming Fundamentals and Unit Testing with C#
+  - Programming Advanced for QA with C#
+  - Software Technologies
+  - QA Basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interests
+  - Data Science
+  - Procedural Programming PostgreSQL
+  - SQL
+
+Goals
+  - Continue learn C#
+  - Learn Python and Algorithms
+  - Become a Data Science
+  - SQL developer
+
+Contact me
+  - enverfransazov@gmail.com
+  - www.linkedin.com/in/enver-fransazov-398b10320
