@@ -14,15 +14,12 @@ Completed courses at SoftUni University:
   - QA Basics
 
 Interests
-  - Data Science
-  - Procedural Programming PostgreSQL
-  - SQL
+  - Selenium WebDriver
+  - QA Automation 
 
 Goals
   - Continue learn C#
-  - Learn Python and Algorithms
-  - Become a Data Science
-  - SQL developer
+  - Learn Java
 
 Contact me
   - enverfransazov@gmail.com
