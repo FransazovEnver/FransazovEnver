@@ -3,11 +3,11 @@
 About me
 
 Completed courses at SoftUni University:
-  - PostgreSQL
   - Back-End Test Automation
   - Back-End Technologies Basics
   - Front-End Test Automation
   - Front-End Technologies Basics
+  - PostgreSQL
   - Programming Fundamentals and Unit Testing with C#
   - Programming Advanced for QA with C#
   - Software Technologies
